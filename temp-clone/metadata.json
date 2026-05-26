@@ -1,0 +1,8 @@
+{
+  "name": "SMART HR V1.0 - draft",
+  "description": "ระบบบริหารจัดการ HR อัจฉริยะ ครบวงจร",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
